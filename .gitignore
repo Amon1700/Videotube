@@ -1,0 +1,23 @@
+# Dependency directories
+node_modules/
+
+# Log files
+*.log
+
+# Environment variable files
+.env
+
+# Build directories
+build/
+
+# Coverage directories
+.nyc_output/
+coverage/
+
+# Operating system-specific files
+.DS_Store
+
+# npm lock files
+package-lock.json
+yarn.lock
+
